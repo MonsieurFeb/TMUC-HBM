@@ -1,4 +1,7 @@
 # TMUC-HBM
+
+![tmuchbm.png](tmuchbm.png)
+
 ### Tech Modpack Ultimate Collection
 
 Хотели заниматься атомной наукой, да ещё с размахом? Тогда эта сборка для вас!
